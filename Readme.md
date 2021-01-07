@@ -5,6 +5,6 @@
 - `cd build`
 - `cmake ..`
 - `make`
-# run
+# Run
 - `cd bin`
 - `./helloworld`
